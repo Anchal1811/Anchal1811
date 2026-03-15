@@ -15,7 +15,7 @@
 ### 📉 [Customer Churn Analysis](https://github.com/Anchal1811/Churn-Analysis-Portfolio-Project-)
 * **The Problem:** High customer attrition in service-based business models.
 * **The Solution:** Built an analytical report identifying the top 3 drivers of churn.
-* 
+  
 ### 🚕 [Ola Data Analyst Project](https://github.com/Anchal1811/Ola-Data-Analyst-Project)
 * **The Problem:** Identifying ride-hailing demand patterns.
 * **The Solution:** Used Python and SQL to analyze trip data and visualize peak demand cycles.
